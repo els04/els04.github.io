@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7798e63.chunk.css",
+    "main.js": "/static/js/main.c631caf9.chunk.js",
+    "main.js.map": "/static/js/main.c631caf9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.94af719c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.94af719c.js.map",
+    "static/js/2.a37af809.chunk.js": "/static/js/2.a37af809.chunk.js",
+    "static/js/2.a37af809.chunk.js.map": "/static/js/2.a37af809.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d7798e63.chunk.css.map": "/static/css/main.d7798e63.chunk.css.map",
+    "static/js/2.a37af809.chunk.js.LICENSE.txt": "/static/js/2.a37af809.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/afripods-logo-header-colored.18189982.svg",
+    "static/media/index.css": "/static/media/corbel.2d12e228.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94af719c.js",
+    "static/js/2.a37af809.chunk.js",
+    "static/css/main.d7798e63.chunk.css",
+    "static/js/main.c631caf9.chunk.js"
+  ]
+}
